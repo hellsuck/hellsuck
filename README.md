@@ -31,7 +31,7 @@
 
 ## 🌟 <span style="color:#ff69b4;">Featured Work</span>
 
-- <a href="https://github.com/weedhack" style="color:#ff69b4;font-weight:bold;font-size:1.15em;">weedhack</a> — Open source, with attitude (and pink energy)!
+- <a href="https://github.com/weedhack" style="color:#ff69b4;font-weight:bold;font-size:1.15em;">weedhack</a> — A Game enhancement.
 
 ---
 
