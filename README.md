@@ -1,19 +1,19 @@
 <!-- HEADER -->
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Vivian%20LLC-%23ff69b4?style=for-the-badge&logo=appveyor&logoColor=white" alt="Vivian LLC Badge" />
+  <img src="https://img.shields.io/badge/CEO-%23ff69b4?style=for-the-badge&logo=star&logoColor=white" alt="CEO Badge" />
+  <img src="https://img.shields.io/badge/Full%20Stack-%23ff69b4?style=for-the-badge&logo=typescript&logoColor=white" alt="Full Stack Badge" />
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=36&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Welcome+to+my+pink-powered+world!;Hi%2C+I'm+Vince+Lysukha+%F0%9F%92%97" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Vivian%20LLC-%23ff69b4?style=for-the-badge&logo=appveyor&logoColor=white" alt="Vivian LLC Badge" />
-  <img src="https://img.shields.io/badge/CEO-%23ff1493?style=for-the-badge&logo=star&logoColor=white" alt="CEO Badge" />
-  <img src="https://img.shields.io/badge/Full%20Stack-%23ffb6c1?style=for-the-badge&logo=javascript&logoColor=white" alt="Full Stack Badge" />
-</p>
-
-<h1 align="center" style="color:#ff69b4;">🌸 Hi there, I'm <span style="color:#ff1493;">Vince Lysukha</span> 🌸</h1>
-
 <p align="center" style="color:#ff69b4;font-size:1.1em;">
   <b>CEO of <a href="https://vivian.lol" style="color:#ff69b4;">Vivian LLC</a></b> <br>
-  <i>Building modern web solutions at scale, with a splash of pink!</i>
+  <i>Building modern web solutions at scale.</i>
 </p>
 
 
